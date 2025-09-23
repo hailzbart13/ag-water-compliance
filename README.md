@@ -1,31 +1,21 @@
-# Agricultural Water Compliance Checker
+# Agricultural Economics + Python Homework
 
-This Python script reads annual farm water usage data from a text file 
-and checks each farm against the **4.0 acre-feet per acre water regulation**.  
-It prints whether each farm is **Compliant** or in **Violation** and gives 
-a summary at the end.
+This repository contains weekly Python assignments that combine 
+programming practice with **Agricultural Economics** and 
+**Sustainability** concepts.  
 
-## Why this matters
-Water regulation compliance is a critical issue in sustainable agriculture 
-and agricultural economics. By tracking usage programmatically, farmers 
-and regulators can make better decisions about resource management.
+Each week introduces a small project where Python skills are applied to 
+real-world agricultural problems — building both technical and economic insight.
 
-## Example File
-'SunnyFields 3.7'
-'GreenValley 4.2'
-'DesertBloom 2.9'
-'RiverBend 4.5'
+---
 
-## Example Output
-'SunnyFields Compliant'
-'GreenValley Violation'
-'DesertBloom Compliant'
-'RiverBend Violation'
-Summary
-Compliant farms: 2
-Violations: 2
+## Weekly Assignments
+- [Week 1: Water Compliance Checker](week1/README.md)
 
-## How to Run
-1. Save your farm data in a text file (e.g., `farms.txt`).
-2. Run the script:
-3. When prompted, enter the file name (e.g., `farms.txt`).
+---
+
+## About this Repository
+This repo is organized by week.  
+- Each `weekX` folder contains the **Python code** and a **detailed README** explaining the assignment.  
+- The top-level README (this page) serves as a **table of contents** and overview of the entire journey.  
+
