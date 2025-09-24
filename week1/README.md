@@ -47,6 +47,7 @@ It calculates:
 - The farm with the highest revenue  
 
 ### Example Input
+➡️ See the file [sales.txt](sales.txt) for sample input.
 ```text
 2025-05-03 SunnyFields tomatoes 180 1.80
 2025-05-03 SunnyFields peppers 75 2.20
