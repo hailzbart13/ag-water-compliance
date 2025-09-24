@@ -10,7 +10,10 @@ real-world agricultural problems — building both technical and economic insigh
 ---
 
 ## Weekly Assignments
-- [Week 1: Water Compliance Checker](week1/README.md)
+- Week 1
+  - [Program 1: Water Compliance Checker](week1/wateruse.py)
+  - [Program 2: Sales Log Analyzer](week1/sales_analyzer.py)
+
 
 ---
 
