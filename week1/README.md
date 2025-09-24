@@ -59,7 +59,7 @@ It calculates:
 tomatoes 500.0
 peppers 135.0
 lettuce 90.0
-SunnyFields 411.0
+SunnyFields 489.0
 
 ## Program 2: [Sales Log Analyzer](sales_analyzer.py)
 
