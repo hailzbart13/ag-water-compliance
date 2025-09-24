@@ -1,0 +1,6 @@
+2025-05-03 SunnyFields tomatoes 180 1.80
+2025-05-03 SunnyFields peppers 75 2.20
+2025-05-04 GreenValley tomatoes 120 1.70
+2025-05-04 RiverBend lettuce 90 1.20
+2025-05-05 GreenValley peppers 60 2.50
+2025-05-06 DesertBloom tomatoes 200 1.60
