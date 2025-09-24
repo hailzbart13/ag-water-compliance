@@ -6,6 +6,16 @@ programming practice with **Agricultural Economics** and
 
 Each week introduces a small project where Python skills are applied to 
 real-world agricultural problems — building both technical and economic insight.
+# Agricultural Economics + Python Homework
+
+I am currently learning **Python** through the [Python for Everybody](https://www.py4e.com/) course while also studying **sustainability and agricultural economics**.  
+
+This repository documents my weekly assignments that I make for myself where I apply new Python concepts to problems in **agricultural economics**.  
+
+The goal of this project is twofold:  
+- Build a strong foundation in programming.  
+- Create a portfolio that connects data analysis and sustainability to 
+  real-world agricultural issues — supporting my path toward a career in **Agricultural Economics**.
 
 ---
 
