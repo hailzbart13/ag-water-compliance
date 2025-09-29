@@ -14,7 +14,7 @@ Date,Time,Grain,Price
 2025-09-01,14:12:34,Soybeans,11.40
 2025-09-01,15:20:12,Wheat,6.25
 2025-09-01,18:05:55,Corn,5.75
-
+```
 ## Example Output
 ```text
 09 2
