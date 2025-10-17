@@ -1,21 +1,22 @@
-# Agricultural Economics + Python Homework
+# Python Learning Journey
 
-This repository contains weekly Python assignments that combine 
-programming practice with **Agricultural Economics** and 
-**Sustainability** concepts.  
+This repository contains weekly Python projects and assignments that document my progress as I learn programming and explore new technical skills.
 
-Each week introduces a small project where Python skills are applied to 
-real-world agricultural problems — building both technical and economic insight.
-# Agricultural Economics + Python Homework
+Each project focuses on applying Python to real-world problems — from data handling and automation to small web experiments — helping me build both confidence and creativity as I grow.
 
-I am currently learning **Python** through the [Python for Everybody](https://www.py4e.com/) course while also studying **sustainability and agricultural economics**.  
+## About This Project
 
-This repository documents my weekly assignments that I make for myself where I apply new Python concepts to problems in **agricultural economics**.  
+I am currently studying Python through the **Python for Everybody** course and creating self-directed assignments to reinforce what I learn each week.
 
-The goal of this project is twofold:  
-- Build a strong foundation in programming.  
-- Create a portfolio that connects data analysis and sustainability to 
-  real-world agricultural issues — supporting my path toward a career in **Agricultural Economics**.
+The goal of this repository is twofold:
+
+- **Build a strong foundation in programming** through consistent, hands-on practice.  
+- **Develop a portfolio** that reflects my transition into a tech-focused career centered around data, problem-solving, and automation.
+
+---
+
+*Learning in public — one project at a time.*
+
 
 ---
 
@@ -24,7 +25,7 @@ The goal of this project is twofold:
   - [Program 1: Water Compliance Checker](week1/wateruse.py)
   - [Program 2: Sales Log Analyzer](week1/sales_analyzer.py)
 - Week 2
-- [Program 1: Grain Sales by Hour](week2/README.md)
+  - [Program 1: Grain Sales by Hour](week2/README.md)
 
 ---
 
