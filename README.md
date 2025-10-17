@@ -22,10 +22,12 @@ The goal of this repository is twofold:
 
 ## Weekly Assignments
 - Week 1
-  - [Program 1: Water Compliance Checker](week1/wateruse.py)
-  - [Program 2: Sales Log Analyzer](week1/sales_analyzer.py)
+  - [Program 1: Water Compliance Checker](week1/wateruse.py)]
+  - [Program 2: Sales Log Analyzer](week1/sales_analyzer.py)]
 - Week 2
-  - [Program 1: Grain Sales by Hour](week2/README.md)
+  - [Program 1: Grain Sales by Hour](week2/README.md)]
+- Week 3
+  - [Web Scraper for Image Extraction](week3/README.md)]
 
 ---
 
